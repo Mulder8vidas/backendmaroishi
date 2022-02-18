@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gateway/authproxy.iml" filepath="$PROJECT_DIR$/gateway/authproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend.iml" filepath="$PROJECT_DIR$/.idea/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/demo.iml" filepath="$PROJECT_DIR$/eurekaserver/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountservice/microserviceaccount.iml" filepath="$PROJECT_DIR$/accountservice/microserviceaccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productService/microserviceproduct.iml" filepath="$PROJECT_DIR$/productService/microserviceproduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedidosService/pedidos.iml" filepath="$PROJECT_DIR$/pedidosService/pedidos.iml" />
+    </modules>
+  </component>
+</project>
